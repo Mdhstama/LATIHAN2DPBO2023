@@ -1,6 +1,6 @@
 # LATIHAN2DPBO2023
 
-__A) __Desain Program__
+__A) Desain Program__
 
 ![image](https://user-images.githubusercontent.com/99590350/218919338-b20bee07-ee5d-4e90-8b26-4f9b47b4f081.png)
 
