@@ -15,3 +15,21 @@ __B) Keterangan Desain__
 - Mahasiswa.file merupakan child dari class Hardware  (karena mahasiswa merupakan bagian dari civitas)
 
 - Main.file merupakan file untuk menampilkan output
+
+__C) Contoh Eksekusi__
+
+1) Menu Program
+
+![image](https://user-images.githubusercontent.com/99590350/220360785-7a5e8998-9f5b-49f1-a389-a152a97966f3.png)
+
+2) Add Data
+
+![image](https://user-images.githubusercontent.com/99590350/220361061-c1d51b5a-16c0-4b86-8178-2fb10318d4bc.png)
+
+3) Delete Data
+
+![image](https://user-images.githubusercontent.com/99590350/220361199-8c76a86c-244a-40af-bb7f-d729fca44c8c.png)
+
+4) Update Data
+
+![image](https://user-images.githubusercontent.com/99590350/220361395-41b07683-842c-4d6e-b02f-cec2e10e56f1.png)
